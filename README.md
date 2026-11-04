@@ -368,8 +368,8 @@ This project is a solid baseline. These are the most valuable next steps:
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | your.email@example.com
+**aditya-putsala**
+[LinkedIn](https://www.linkedin.com/in/aditya-putsala) | [GitHub](https://github.com/aditya-putsala)
 
 ---
 
